@@ -1,1 +1,11 @@
-[]
+{
+  "app.components.HeaderBox.header": "This is the HeaderBox component!",
+  "app.components.MenuColumn.header": "This is the MenuColumn component!",
+  "app.components.TableList.header": "This is the TableList component!",
+  "app.containers.Dashboard.header": "This is the Dashboard container!",
+  "app.containers.Header.header": "This is the Header container!",
+  "app.containers.HomePage.header": "This is the HomePage container!",
+  "app.containers.LoginPage.header": "This is the LoginPage container!",
+  "app.containers.NotFoundPage.header": "This is the NotFoundPage container!",
+  "app.containers.TodoPage.header": "This is the TodoPage container!"
+}

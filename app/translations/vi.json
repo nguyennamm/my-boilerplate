@@ -1,0 +1,11 @@
+{
+  "app.components.HeaderBox.header": "",
+  "app.components.MenuColumn.header": "",
+  "app.components.TableList.header": "",
+  "app.containers.Dashboard.header": "",
+  "app.containers.Header.header": "",
+  "app.containers.HomePage.header": "",
+  "app.containers.LoginPage.header": "",
+  "app.containers.NotFoundPage.header": "",
+  "app.containers.TodoPage.header": ""
+}

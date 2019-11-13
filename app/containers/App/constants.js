@@ -8,3 +8,6 @@
  * Follow this format:
  * export const YOUR_ACTION_CONSTANT = 'yourproject/YourContainer/YOUR_ACTION_CONSTANT';
  */
+
+export const ENABLE_LOADING = 'app/App/ENABLE_LOADING';
+export const DISABLE_LOADING = 'app/App/DISABLE_LOADING';
